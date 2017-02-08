@@ -4,16 +4,16 @@
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
 ## 2017
- - Lógica de Programação - 1A
- - Lógica de Programação - 1B
- - Banco de Dados I - 2A
- - Banco de Dados I - 2B
- - Banco de Dados I - 3A
- - Banco de Dados I - 3B
+ - [Lógica de Programação - 1A](http://julianofischer.github.io/logica_1A_2017/)
+ - [Lógica de Programação - 1B](http://julianofischer.github.io/logica_1B_2017/)
+ - [Banco de Dados I - 2A](http://julianofischer.github.io/bd_2A_2017/)
+ - [Banco de Dados I - 2B](http://julianofischer.github.io/bd_2B_2017/)
+ - [Banco de Dados I - 3A](http://julianofischer.github.io/bd_3A_2017/)
+ - [Banco de Dados I - 3B](http://julianofischer.github.io/bd_3B_2017/)
  
 ## 2016
- - Programação Orientada a Objetos  - ADS
- - Sistemas Operacionais 
+ - [Programação Orientada a Objetos  - ADS]((http://julianofischer.github.io/poo/))
+ - [Sistemas Operacionais](http://julianofischer.github.io/sistemas-operacionais/)
 
 <!--
 ```markdown
