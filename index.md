@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
  - [Banco de Dados I - 3B](http://julianofischer.github.io/bd_3B_2017/)
  
 ## 2016
- - [Programação Orientada a Objetos  - ADS]((http://julianofischer.github.io/poo/))
+ - [Programação Orientada a Objetos  - ADS](http://julianofischer.github.io/poo/)
  - [Sistemas Operacionais](http://julianofischer.github.io/sistemas-operacionais/)
 
 <!--
