@@ -3,7 +3,7 @@
 <!--You can use the [editor on GitHub](https://github.com/julianofischer/disciplinas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.t
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 ## 2017 (Vilhena)
- - [Programação Orientada a Objetos - 1A e 1B](http://julianofischer.github.io/poo_vilhena_2017/)
+ - [Programação Orientada a Objetos - 2A e 2B](http://julianofischer.github.io/poo_vilhena_2017/)
  - [Padrões de Projeto - ADS](http://julianofischer.github.io/padroes_de_projeto_2017/)
 
 ## 2017 (Ji-Paraná)
